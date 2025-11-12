@@ -1,136 +1,108 @@
-# BitLovely — Full Stack Developer
+# BitLovely — Senior Fullstack Developer | Go, Rust, React, TypeScript | Cloud & Microservices Expert
 
-![Full Stack Developer](https://img.shields.io/badge/Developer-Full%20Stack-blue)
-![Years Experience](https://img.shields.io/badge/Experience-Senior%20Level-success)
+![Senior Fullstack Developer](https://img.shields.io/badge/Developer-Senior%20Fullstack-blue)
+![Experience](https://img.shields.io/badge/Experience-Senior%20Level-success)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 
-Crafting reliable, maintainable, and high-performance web applications using JavaScript, TypeScript, modern front-end frameworks, battle-tested back-end stacks, and pragmatic DevOps practices.
+I build and operate cloud-native, production-grade systems: microservices and APIs written in Go and Rust, and user-facing applications built with React and TypeScript. I focus on performance, reliability, observability, and pragmatic engineering that scales across teams and traffic.
 
 ---
 
-## About me
+## About Me
 
-I am a Full Stack Developer focused on building production-ready web applications. I specialize in JavaScript and TypeScript across the stack and have deep experience with React, Vue, Node/Express, PHP (Laravel, CodeIgniter), Python (Django), and Go. I design intuitive user experiences, clean APIs, and scalable systems that make teams and products more productive.
+Senior Fullstack Developer with deep experience in building cloud-native microservices, developer-friendly APIs, and high-quality frontends. I architect and implement systems using Go and Rust for back-end services and React + TypeScript for front-end applications. I operationalize services with observability, automated CI/CD, and resilient deployment patterns.
 
 Core strengths:
 
-- End-to-end web application development (UI, API, persistence, deployment)
-- Strong TypeScript-first approach for front-end and back-end
-- Pragmatic architecture: performance, security, observability
-- Mentoring, technical leadership, and cross-functional collaboration
+- Designing and building microservices and distributed systems (Go, Rust)
+- Frontend systems with React + TypeScript, component architecture, and testing
+- Cloud-native delivery: Docker, Kubernetes, CI/CD, and infrastructure as code
+- Observability: structured logging, tracing (OpenTelemetry), metrics (Prometheus/Grafana)
+- Performance, security, fault tolerance, and production readiness
+- Mentorship, technical leadership, and cross-functional collaboration
 
 ---
 
 ## Core Competencies
 
-- Languages: JavaScript (ES6+), TypeScript, PHP, Python, Go
-- Frontend: React, Vue, Next.js, Nuxt, modern CSS (Tailwind, BEM), accessibility
-- Backend: Node.js + Express, Laravel, CodeIgniter, Django, Go (net/http)
-- Databases: PostgreSQL, MySQL, Redis, SQLite
-- DevOps: Docker, CI/CD pipelines, basic AWS/GCP knowledge
-- Testing: Jest, React Testing Library, PHPUnit, pytest
-- Tooling: Webpack, Vite, ESLint, Prettier, TypeScript, Composer, pip
+- Languages: Go, Rust, TypeScript, JavaScript (ES6+), Python, PHP
+- Frontend: React, Next.js, TypeScript-first component design, modern CSS (Tailwind)
+- Backend: Go (microservices, gRPC, HTTP), Rust (high-performance services), Node.js/TypeScript
+- Architecture: Microservices, event-driven design, API-first development (OpenAPI)
+- Cloud & DevOps: Docker, Kubernetes, AWS/GCP, CI/CD (GitHub Actions, GitLab CI), IaC (Terraform)
+- Observability: OpenTelemetry, Prometheus, Grafana, structured logging, distributed tracing
+- Databases: PostgreSQL, MySQL, Redis, timeseries & caching strategies
+- Testing & Quality: unit/integration testing, contract tests, type-driven development
 
 ---
 
-## Tech Stack
+## Tech Stack & Tools
 
-### Frontend Development
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-
-- Modern JavaScript/TypeScript development with React and Vue.js
-- Component-driven architecture with strong typing
-- State management (Redux, Vuex, Pinia)
-- Unit & integration testing
-
-### Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+### Backend & Systems
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-00ADD8?style=flat)
+- Microservices and APIs (Go, Rust); HTTP, gRPC, protobufs, async/event-driven patterns
+- Service design for scalability, observability, and resilience
 
-- RESTful API development with Express.js, Laravel, and Django
-- Microservices architecture with Go
-- Database design and optimization
-- Authentication & Authorization (JWT, OAuth)
-- API documentation (OpenAPI/Swagger)
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+- React + TypeScript, Next.js for server-rendered apps, component-driven design, testing
+
+### Cloud, DevOps & Observability
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-263238?style=flat)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat)
+- Kubernetes, Docker, Terraform, AWS/GCP, CI/CD pipelines, automated deployments
+- Observability with OpenTelemetry, Prometheus, Grafana, structured logs, distributed tracing
+
+### Data & Testing
+- Databases: PostgreSQL, MySQL, Redis; schema design and performance tuning
+- Testing: unit, integration, contract tests, e2e pipelines; type-driven development
 
 ---
 
-## What I deliver (contract)
+## What I Deliver
 
 Inputs:
-
 - Product requirements, user stories, or a problem statement
 
 Outputs:
-
-- Production-ready features (UI + API + tests + docs)
-- Deployment-ready artifacts (Dockerfile, CI config)
-- Short onboarding notes and handoff documentation
+- Production-ready features (UI + API) with tests and documentation
+- Deployment-ready artifacts (Dockerfiles, Helm charts, CI/CD pipelines)
+- Observability and runbooks for on-call and post-deploy diagnostics
 
 Success criteria:
-
-- Feature meets acceptance criteria and tests pass
-- Predictable performance and reasonable error handling
-- Clear README and run instructions for future maintainers
+- Features meet acceptance criteria and automated tests pass
+- Predictable performance and graceful error handling at scale
+- Clear README, run instructions, and handoff documentation
 
 ---
 
-## How I work
+## How I Work
 
-1. Understand the problem and define small iterations.
-2. Deliver working software early — iterate with tests and CI.
-3. Keep APIs contract-driven and document them (OpenAPI / README).
-4. Automate where it removes repetitive risk (tests, linting, deployments).
+1. Define the smallest valuable iteration and validate assumptions.
+2. Deliver incrementally with CI, tests, and automated deployments.
+3. API-first, contract-driven design (OpenAPI/protobuf) and clear docs.
+4. Automate observability and runbooks to reduce incident-to-fix time.
 
 Edge cases I plan for:
+- Missing or malformed input data
+- High-latency or failing downstream services (timeouts, retries, circuit breakers)
+- Authentication/authorization edge cases and least-privilege principals
+- Backwards compatibility and safe, incremental migrations
 
-- Empty or missing input data
-- High-latency or failing downstream services
-- Auth and permission edge cases
-- Backwards compatibility during iterative releases
 
----
+## Hiring & Collaboration
 
-## Selected Project Examples (templates — add your projects)
-
-- Project A — Single-page app + API
-	- Short: SEO-friendly React frontend, Express/TypeScript API, PostgreSQL
-	- Why: Fast UX, server-rendered pieces for SEO, robust data model
-
-- Project B — SaaS admin panel
-	- Short: Vue 3 + TypeScript, Laravel backend, Redis caching
-	- Why: Manage complex user roles and billing workflows with clear audit logs
-
-Replace these with real project names, links, and short bullets describing the challenge, your role, tech used, and measurable outcome.
-
----
-
-## Hiring & collaboration
-
-- Roles I take: Senior Full Stack Engineer, Tech Lead (feature teams), Contractor for greenfield and brownfield projects.
-- Availability: [Replace with your availability — e.g. open to full-time / contract / remote].
-- How I prefer to work: Small milestones, regular demos, code reviews, and automated tests.
-
----
-
-## 📫 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bitlovely)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bitlovely)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://bitlovely.dev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bitlovely555@gmail.com)
-
-</div>
+- Roles I take: Senior Fullstack Engineer, Tech Lead, Backend/Platform Engineer, Contractor for greenfield and brownfield projects
+- Availability: full-time / contract / remote
+- Preferred workflow: small milestones, regular demos, code reviews, and automated testing
 
 ---
 
@@ -140,6 +112,6 @@ Replace these with real project names, links, and short bullets describing the c
 
 ### 💼 Open for Opportunities
 
-I'm interested in full-stack development opportunities where I can contribute to innovative projects and collaborate with passionate teams. Feel free to reach out!
+I'm interested in senior fullstack roles and platform engineering engagements where I can help design and scale cloud-native products. Feel free to reach out!
 
 </div>
