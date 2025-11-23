@@ -1,5 +1,5 @@
 <!-- Header -->
-# BitLovely — Senior Fullstack Developer
+# Senior Fullstack Developer
 
 <p align="center">
 	<img alt="Senior Fullstack Developer" src="https://img.shields.io/badge/Developer-Senior%20Fullstack-blue" />
