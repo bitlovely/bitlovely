@@ -1,1 +1,1 @@
-> **"The only wayt to go fast is to go well"**  
+> **"The only way to go fast is to go well"**  
